@@ -1,0 +1,2 @@
+/*las tuplas son un tipo de dato que te permite almacenar una secuencia de elementos de diferentes tipos. Funcionan como un arreglo fijo donde cada elemento tiene un tipo especifico y una posicion definida, en este ejemplo se crea una variable tupla de tipo de dato tupla, donde el primer elemento necesita ser un numero y el segundo un string, si le pasamos los datos erroneos, TS mandara un waning */
+let tupla: [number, string] = [1, "control"];
